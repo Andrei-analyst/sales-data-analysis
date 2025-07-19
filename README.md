@@ -29,3 +29,4 @@
 - Matplotlib
 
 🔗 [Upwork profile](https://www.upwork.com/freelancers/~0152af1106a52493d6)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Andrei-analyst/sales-data-analysis/blob/main/sales_analysis_full.ipynb)
